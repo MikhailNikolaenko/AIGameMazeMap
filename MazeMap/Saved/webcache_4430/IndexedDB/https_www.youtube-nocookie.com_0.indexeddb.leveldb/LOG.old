@@ -1,0 +1,6 @@
+2023/07/21-15:36:46.247 62d8 Creating DB C:/Storage/Programming/Unreal Engine 5/MazeMap/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/07/21-15:36:46.250 62d8 Reusing MANIFEST C:/Storage/Programming/Unreal Engine 5/MazeMap/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/21-15:44:14.396 492c Level-0 table #5: started
+2023/07/21-15:44:14.416 492c Level-0 table #5: 1167 bytes OK
+2023/07/21-15:44:14.416 492c Delete type=0 #3
+2023/07/21-15:44:14.418 492c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
